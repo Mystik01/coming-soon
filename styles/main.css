@@ -286,6 +286,11 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f392";
 }
+.status::before {
+  font-family: "Font Awesome 5 Brands";
+  content: "\f7a2";
+}
+
 /*------------------------------------------------------------------
 Project:  ComingSoon template
 Version:  1.0
@@ -569,4 +574,8 @@ button,
 .discord::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f392";
+}
+.status::before {
+  font-family: "Font Awesome 5 Brands";
+  content: "\f7a2";
 }
