@@ -243,52 +243,13 @@ button,
   }
 }
 
-.twitter::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f099";
-}
-
-.facebook::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f16d";
-}
-
-.instagram::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f09a";
-}
-
-.github::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f09b";
-}
-
-.stackoverflow::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f16c";
-}
-
-.youtube::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f167";
-}
-
-.medium::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f23a";
-}
-
-.linkedin::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f08c";
-}
 .discord::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f392";
 }
 .status::before {
   font-family: "Font Awesome 5 Brands";
-  content: "\f7a2";
+  content: "\f1eb";
 }
 
 /*------------------------------------------------------------------
@@ -536,46 +497,11 @@ button,
   }
 }
 
-.twitter::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f099";
-}
-
-.facebook::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f16d";
-}
-
-.instagram::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f09a";
-}
-
-.github::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f09b";
-}
-
-.stackoverflow::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f16c";
-}
-
-.youtube::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f167";
-}
-
-.medium::before {
-  font-family: "Font Awesome 5 Brands";
-  content: "\f23a";
-}
-
 .discord::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f392";
 }
 .status::before {
   font-family: "Font Awesome 5 Brands";
-  content: "\f7a2";
+  content: "\f1eb";
 }
