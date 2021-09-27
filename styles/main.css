@@ -282,6 +282,10 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f08c";
 }
+.discord::before {
+  font-family: "Font Awesome 5 Brands";
+  content: "\f08c";
+}
 /*------------------------------------------------------------------
 Project:  ComingSoon template
 Version:  1.0
