@@ -247,7 +247,7 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f392";
 }
-.status::before {
+.wifi::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f1eb";
 }
@@ -501,7 +501,7 @@ button,
   font-family: "Font Awesome 5 Brands";
   content: "\f392";
 }
-.status::before {
+.wifi::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f1eb";
 }
